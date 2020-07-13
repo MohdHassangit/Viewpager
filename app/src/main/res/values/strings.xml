@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">viewpager_fragmenst</string>
+    <string name="lorem_emsup"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In fringilla lorem sem, sed faucibus nulla efficitur vel. Maecenas id turpis finibus, rhoncus purus in, venenatis dolor. Quisque tempus risus ac risus pellentesque suscipit. Duis quis est et lorem tristique ornare. Suspendisse cursus ut enim nec hendrerit. Nullam id dictum tortor. Nunc ultrices porttitor turpis, sit amet convallis nisi. Nullam vel tortor a leo rhoncus lacinia ut et arcu.
+
+Donec facilisis leo in leo tincidunt, et ultricies mauris dignissim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla consequat lacus nec vehicula iaculis. Nulla consectetur sem eu leo lobortis, et bibendum neque tempus.</string>
+</resources>
